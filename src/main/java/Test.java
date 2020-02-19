@@ -19,6 +19,5 @@ public class Test extends Application {
         Scene scene = new Scene(flowPane);
         primaryStage.setScene(scene);
         primaryStage.show();
-        dfgkjsdælkadfdkælfkjældfskjælj:;
     }
 }
